@@ -1,0 +1,5 @@
+
+—squid:S1319"vThe type of the "weatherList" object should be an interface such as "List" rather than the implementation "ArrayList".(Õùì¹üÿÿÿÿ8 €Ú÷,
+‘squid:S1319"vThe type of the "weatherList" object should be an interface such as "List" rather than the implementation "ArrayList".(“‰´'8 €Ú÷,
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(èÙğ‰8 €Ú÷,
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ú®Ú±8 €Ú÷,
